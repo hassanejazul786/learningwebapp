@@ -1,0 +1,151 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+.bg{
+background-image: url('../image/bg.jpg');
+background-size: cover;
+background-attachment: inherit;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+position: relative;
+width:100% !important;
+padding: 0px;
+height:auto !important;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+position: relative;
+height:auto;
+align-content: center;
+}
+
+.card2{
+margin-top: auto;
+margin-bottom: auto;
+width: 600px;
+display:inline-block;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h3{
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+background-color: #16b198;
+color: black;
+border:0 !important;
+}
+
+.input-text1{
+width: 200px !important;
+}
+
+
+.input-text{
+width: 160px !important;
+}
+
+
+.input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black !important;
+background-color: #16b198 !important;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black !important;
+background-color: white !important;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px; 
+}
+
+
+
+.dropdown {
+  position:relative !important;
+  top:0px !important;
+  bottom:50% !important;
+}
+
+
+.content-header {
+  background-color:#8458B3;
+}
+
+.content-sidebar {
+  background-color:#D0BDF4;
+  height:auto;
+}
+
+.bgmenu {
+  background-color:#8458B3;
+}
+
+.list-group-item-action:hover {
+  background-color:#b300b3 !important;
+}
+
+.list-group-item-action{
+  background-color:#8458B3 !important;
+}
+
+.list-group-item:active{
+  background-color:#8458B3;
+}
+
+.content-div {
+  height:auto !important;
+}
+
+#main {
+  height:700px !important;
+}
+
+.summary{
+  height:90%;
+}

@@ -1,0 +1,27 @@
+
+@media only screen and (max-width: 575px) {
+ 
+  .card{width:100% !important;}
+  .input-text{font-size: 12px !important; width:115px !important;}
+  .input-text1{font-size: 12px !important; width:135px !important;}
+  .login_btn{font-size: 14px !important;}
+  .reg-text{font-size: 12px !important;}
+  ::placeholder{font-size: 12px !important;}
+   select{font-size: 12px !important;}
+  option{font-size: 12px !important;}
+  input[type=text]{font-size: 12px !important;}
+
+}
+
+@media only screen and (max-width: 375px) {
+  
+  .input-text{font-size: 10px !important; width:100px !important;}
+  .input-text1{font-size: 10px !important; width:120px !important;}
+  .login_btn{font-size: 12px !important;}
+  .reg-text{font-size: 10px !important;}
+  ::placeholder{font-size: 10px !important;}
+   select{font-size: 10px !important;}
+  option{font-size: 10px !important;}
+  input[type=text]{font-size: 10px !important;}
+
+}
